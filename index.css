@@ -12,6 +12,7 @@ body {
 }
 
 a {
+    color: #eee;
     text-decoration: none;
     font-weight: bold;
 }
